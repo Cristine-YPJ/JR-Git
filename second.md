@@ -1,2 +1,2 @@
-Git exercise: change the first line
-switch back to master branch
+# JR-Git
+Show assignment or something need to share
