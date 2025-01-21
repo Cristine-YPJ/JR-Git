@@ -1,1 +1,1 @@
-Git exercise
+Git exercise: switch back to master branch
